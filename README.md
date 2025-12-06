@@ -16,7 +16,7 @@
 </div>
 </td>
 <td align="center" valign="middle">
-<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2bcf8868-d900-47ca-9b76-2c1362040508.jpg;maxHeight=1920;maxWidth=900?format=webp" width="500">
+<img src="https://www.individualsoftware.com/wp-content/uploads/2023/10/did-you-2026.png" width="500">
 </td>
 </tr>
 </table>
